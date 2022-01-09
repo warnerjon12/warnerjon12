@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on whatever sounds interesting. Collaboration allows me to network with other
   cool people that each have something to teach me. I like to work on things that help me connect my subject
   knowledge (math skills/programming/electronics).
-- 📫 You can reach me [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ), or send an email to warnerjon12@gmail.com.
+- 📫 You can reach me [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 <!---
 warnerjon12/warnerjon12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
